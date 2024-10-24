@@ -1,7 +1,6 @@
 # Size Limit [![Cult Of Martians][cult-img]][cult]
 
-<img src="[https://ai.github.io/size-limit/logo.svg](https://media.licdn.com/dms/image/v2/D560BAQFQhwPAVYSpzQ/company-logo_200_200/company-logo_200_200/0/1728346709216/cybermsi_logo?e=1737590400&v=beta&t=Kc53T-1PbvPnBm3hIvMepwv9T9Ucto_sTW16vlErBuo)" align="right"
-     alt="CyberMSI" width="200" height="200">
+<img src="https://i.postimg.cc/wB10vRgb/cybermsi-logo.jpg" align="right" alt="CyberMSI" width="150" height="150">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
