@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/wB10vRgb/cybermsi-logo.jpg" align="right" alt="CyberMSI" width="150" height="150">
 
-**About Company:**<br>
+**About Company :**<br>
 Our company leads in next-generation AI-driven cybersecurity, leveraging Microsoft Defender XDR, Microsoft<br> Sentinel, and Microsoft Copilot for Security alongside expert insights. We provide around-the-clock managed services in Extended Detection and Response (XDR), Identity Threat Detection & Response (ITDR), Data Security, and Security Exposure Management.
 Trusted by numerous mid-sized organizations in over 30 countries across four continents, we excel in safeguarding against business disruptions and data loss. Our comprehensive protection spans identities, endpoints, data, apps, infrastructure, IoT, and network, enforcing zero trust security throughout the organization.<br> With a 21-minute Mean Time to Respond (MTTR), we don’t just respond to threats; we fully mitigate them.
 <br>As a Microsoft security partner, we specialize in Microsoft Copilot, Microsoft Defender XDR, Microsoft Sentinel,<br> Microsoft Purview, Microsoft Defender for Cloud , Microsoft Defender for Endpoints, Microsoft Defender for Office,<br> Microsoft Cloud App Security, Microsoft Defender for Identity, Microsoft Entra ID, and Microsoft Security Exposure Management.
@@ -16,13 +16,18 @@ Trusted by numerous mid-sized organizations in over 30 countries across four con
 
 As part of the Security Operations Center (SOC) team, analysts will manage the full Incident Management (IM) lifecycle. They will detect, analyze, and triage security incidents using monitoring tools, categorizing them by severity and assessing their potential impact. Analysts will conduct detailed investigations, leveraging Microsoft cybersecurity tools to gather evidence and perform root cause analyses to identify vulnerabilities. In addition, they will implement response strategies, including system isolation, patching, and malware removal, collaborating with IT and network teams to ensure swift resolution. Effective customer communication is key, as analysts will provide timely updates and draft concise incident reports. Analysts will also maintain accurate documentation in Jira, ensuring all incidents are tracked through their lifecycle, and participate in post-incident reviews to refine processes. They will handle escalations, coordinate with stakeholders, and contribute to post-incident evaluations, recommending long-term remediation actions to enhance the organization’s security posture. This role enables analysts to develop key skills in managing cybersecurity incidents and addressing real-world security challenges.
 
+### Duration : Sept 2024 - Present
  <h2 align="center"></h2>
 
   <p align="center">
 </p>
 
-With **[GitHub action]** Size Limit will post bundle size changes as a comment
-in pull request discussion.
+### Tools Used :
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,jira,&theme=light)
+
+
+
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
