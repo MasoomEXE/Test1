@@ -1,25 +1,24 @@
-# Size Limit [![Cult Of Martians][cult-img]][cult]
+# Cyber Managed Services Inc. (CyberMSI)
 
 <img src="https://i.postimg.cc/wB10vRgb/cybermsi-logo.jpg" align="right" alt="CyberMSI" width="150" height="150">
 
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+**About Company:**<br>
+Our company leads in next-generation AI-driven cybersecurity, leveraging Microsoft Defender XDR, Microsoft<br> Sentinel, and Microsoft Copilot for Security alongside expert insights. We provide around-the-clock managed services in Extended Detection and Response (XDR), Identity Threat Detection & Response (ITDR), Data Security, and Security Exposure Management.
+Trusted by numerous mid-sized organizations in over 30 countries across four continents, we excel in safeguarding against business disruptions and data loss. Our comprehensive protection spans identities, endpoints, data, apps, infrastructure, IoT, and network, enforcing zero trust security throughout the organization.<br> With a 21-minute Mean Time to Respond (MTTR), we don’t just respond to threats; we fully mitigate them.
+<br>As a Microsoft security partner, we specialize in Microsoft Copilot, Microsoft Defender XDR, Microsoft Sentinel,<br> Microsoft Purview, Microsoft Defender for Cloud , Microsoft Defender for Endpoints, Microsoft Defender for Office,<br> Microsoft Cloud App Security, Microsoft Defender for Identity, Microsoft Entra ID, and Microsoft Security Exposure Management.
 
-* **ES modules** and **tree-shaking** support.a
-* [CyberSI](https://github.com/MasoomEXE/Testincyber)
-* Add Size Limit to **GitHub Actions**, **Circle CI** or another CI system
-  to know if a pull request adds a massive dependency.
-* **Modular** to fit different use cases: big JS applications
-  that use their own bundler or small npm libraries with many files.
-* Can calculate **the time** it would take a browser
-  to download and **execute** your JS. Time is a much more accurate
-  and understandable metric compared to the size in bytes.
-* Calculations include **all dependencies and polyfills**
-  used in your JS.
+ <h2 align="center"></h2>
 
-<p align="center">
-  <img src="./img/example.png" alt="Size Limit CLI" width="738">
+  <p align="center">
+</p>
+
+### Role Description - Cybersecurity Analyst
+
+As part of the Security Operations Center (SOC) team, analysts will manage the full Incident Management (IM) lifecycle. They will detect, analyze, and triage security incidents using monitoring tools, categorizing them by severity and assessing their potential impact. Analysts will conduct detailed investigations, leveraging Microsoft cybersecurity tools to gather evidence and perform root cause analyses to identify vulnerabilities. In addition, they will implement response strategies, including system isolation, patching, and malware removal, collaborating with IT and network teams to ensure swift resolution. Effective customer communication is key, as analysts will provide timely updates and draft concise incident reports. Analysts will also maintain accurate documentation in Jira, ensuring all incidents are tracked through their lifecycle, and participate in post-incident reviews to refine processes. They will handle escalations, coordinate with stakeholders, and contribute to post-incident evaluations, recommending long-term remediation actions to enhance the organization’s security posture. This role enables analysts to develop key skills in managing cybersecurity incidents and addressing real-world security challenges.
+
+ <h2 align="center"></h2>
+
+  <p align="center">
 </p>
 
 With **[GitHub action]** Size Limit will post bundle size changes as a comment
