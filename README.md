@@ -24,16 +24,10 @@ As part of the Security Operations Center (SOC) team, analysts will manage the f
 
 ### Tools Used :
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,jira,&theme=light)
+<h2 align="center"></h2><p align="center"></p>
 
 
 
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
-</p>
 
 With `--why`, Size Limit can tell you *why* your library is of this size
 and show the real cost of all your internal dependencies.
