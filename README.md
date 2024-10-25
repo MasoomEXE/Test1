@@ -6,7 +6,7 @@ Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
 if the cost exceeds the limit.
 
-* **ES modules** and **tree-shaking** support.
+* **ES modules** and **tree-shaking** support.a
 * Add Size Limit to **GitHub Actions**, **Circle CI** or another CI system
   to know if a pull request adds a massive dependency.
 * **Modular** to fit different use cases: big JS applications
